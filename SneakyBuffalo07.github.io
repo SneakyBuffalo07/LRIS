@@ -4,7 +4,7 @@
     <title>hey guys</title>
   </head>
   <body>
-    <p>Hey guys this is my web page. Im not sure what I should put on it yet.</p>
+    <p>hey guys this is my web page. im not sure what i should put on it yet.</p>
   </body>
   </html>
       
